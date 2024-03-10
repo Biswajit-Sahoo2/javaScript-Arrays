@@ -2,6 +2,7 @@
 
 const arr = [23, 56, 25, 12, 86, 46, 20];
 
+//.includes() method checks whether given input is present in the Array or not
 if (arr.includes(56)) {
     console.log('56 is present in the array');
 }
